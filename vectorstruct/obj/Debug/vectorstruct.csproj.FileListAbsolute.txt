@@ -1,0 +1,6 @@
+D:\projects\c#\vectorstruct\vectorstruct\bin\Debug\vectorstruct.exe.config
+D:\projects\c#\vectorstruct\vectorstruct\bin\Debug\vectorstruct.exe
+D:\projects\c#\vectorstruct\vectorstruct\bin\Debug\vectorstruct.pdb
+D:\projects\c#\vectorstruct\vectorstruct\obj\Debug\vectorstruct.csprojAssemblyReference.cache
+D:\projects\c#\vectorstruct\vectorstruct\obj\Debug\vectorstruct.exe
+D:\projects\c#\vectorstruct\vectorstruct\obj\Debug\vectorstruct.pdb
